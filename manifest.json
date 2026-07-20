@@ -30,6 +30,16 @@
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
+        },
+        {
+            "src": "icons/SberPay.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/UKassa.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ]
 }
